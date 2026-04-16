@@ -63,7 +63,11 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web mientras sigo 
 ### 🔹 App de gestión de citas para psicólogos  
 **Descripción:** App en desarrollo para gestión de citas de psicólogos, con un enfoque más especializado que las apps existentes.  
 - **Login profesional** con **Firebase Authentication**  
-- Base de datos en **Firestore**  
+- Base de datos en **Firestore**
+- Desarrollo con JetpackCompose
+- Almacenar datos don **Firestore**
+- Figma para planeación de Screens y UI.
+- Stitch
 - Colores y UI más reactivos  
 
 **Objetivo:** Reducir tiempos y cancelaciones de citas, mejorando la experiencia de pacientes y psicólogos.  
