@@ -65,7 +65,7 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web mientras sigo 
 - **Login profesional** con **Firebase Authentication**  
 - Base de datos en **Firestore**
 - Desarrollo con JetpackCompose
-- Almacenar datos don **Firestore**
+- Almacenar datos con **Firestore**
 - Figma para planeación de Screens y UI.
 - Stitch
 - Colores y UI más reactivos  
